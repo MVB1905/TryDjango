@@ -1,0 +1,20 @@
+git init 	Tạo ra một directory local
+git clone	Lấy từ trên online về
+git pull	Đồng bộ từ trên mạng về
+
+git add and git add .	Chuẩn bị thêm
+git commit		Thêm vào trong local
+git push		Đẩy lên online
+
+git log			Kiểm tra trạng thái file
+git status 		Kiểm tra trạng thái file
+git log -decorate -graph -online
+
+git remote add origin "URL_GITHUB" 	Thêm URL để định tuyến git sẽ push tới đâu
+
+git branch
+git checkout
+git merge
+
+gitt rebase
+git cherry-pick
